@@ -3,7 +3,7 @@
 
 ![](https://i.imgur.com/xG74tOh.png)
 # Desafio Backend Módulo 01
-Prazo: 10/09/2023.
+Prazo: 10/09/2023.como
 Aluna: Pelissaric;
 Turma: Ifood B2B T09;
 
