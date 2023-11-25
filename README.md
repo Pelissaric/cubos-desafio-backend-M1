@@ -3,9 +3,9 @@
 
 ![](https://i.imgur.com/xG74tOh.png)
 # Desafio Backend Módulo 01
-Prazo: 10/09/2023
-Aluna: Pelissaric
-Turma: Ifood B2B T09
+Prazo: 10/09/2023.
+Aluna: Pelissaric;
+Turma: Ifood B2B T09;
 
 Este desafio deve ser feito no Hackerank, com acesso via este link
 [Hackerank](https://www.hackerrank.com/desafio-de-logica-modulo-1-b2b-t09-dbe-ifood)
