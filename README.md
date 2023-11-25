@@ -4,8 +4,7 @@
 Prazo: 10/09/2023 - Aluna: Pelissaric - Turma: Ifood B2B T09
 
 
-Este desafio deve ser feito no Hackerank, com acesso via este link
-[Hackerank](https://www.hackerrank.com/desafio-de-logica-modulo-1-b2b-t09-dbe-ifood)
+Este desafio deve ser feito no [Hackerank](https://www.hackerrank.com/desafio-de-logica-modulo-1-b2b-t09-dbe-ifood)
 
 ***Instruções:***
 -   Crie um fork deste repositório.
